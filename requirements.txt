@@ -6,5 +6,5 @@ geopandas
 shapely
 fiona
 openpyxl
-jinja2
 rtree
+jinja2

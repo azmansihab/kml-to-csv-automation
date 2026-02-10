@@ -1,0 +1,4028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DISTRIBUSI.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_4773">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_47731</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_47730</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_47730">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_47731">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_4774">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_47741">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_47740">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_47741</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_4774</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_4870">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb5513f</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb5513f</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_48700">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb5513f</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb5513f</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="mm_marker_color_48701">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_4870</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_48700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_48920">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_48921</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_489200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="mm_marker_color_4892">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mm_marker_color_489210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mm_marker_color_489201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="mm_marker_color_489200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/B.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/B-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb5513f</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb5513f</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_489201">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb5513f</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb5513f</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_48921">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/B.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/B-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ffb5513f</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb5513f</color>
+		</PolyStyle>
+	</Style>
+	<Style id="mm_marker_color_489210">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb5513f</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffb5513f</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff5500</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin44">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff5500</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl42">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_grn-blank">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_grn-blank0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_grn-blank43">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_grn-blank0">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_grn-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_grn-blank43">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff3bebff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff3bebff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>DISTRIBUSI</name>
+		<Folder>
+			<name>HP</name>
+			<open>1</open>
+			<Folder>
+				<name>HOME</name>
+				<Placemark id="4873">
+					<name>?-40</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_49_51.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:38:07Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_49_51.jpg&quot;,&quot;file_size&quot;:1616572,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.6622416228056,3.581855962423417,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4852">
+					<name>?-2</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_59_20.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_59_20.jpg&quot;,&quot;file_size&quot;:2039474,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66574593416661,3.581771470259165,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4832">
+					<name>?-3</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_42_40.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_42_40.jpg&quot;,&quot;file_size&quot;:1879351,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66455371187675,3.582109433604393,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4833">
+					<name>?-5</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_43_03.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_43_03.jpg&quot;,&quot;file_size&quot;:1358201,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66462089124882,3.582109653432375,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4831">
+					<name>?-6</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_42_03.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_42_03.jpg&quot;,&quot;file_size&quot;:1852899,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66415283363904,3.582093073236291,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4826">
+					<name>?-7</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_15_43.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_15_43.jpg&quot;,&quot;file_size&quot;:1416124,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66489218162906,3.583965675737712,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4894">
+					<name>?-8</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_09_02.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T07:08:40Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_09_02.jpg&quot;,&quot;file_size&quot;:1514727,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66625688970089,3.583892464694778,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4893">
+					<name>?-9</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_08_49.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T07:08:38Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_08_49.jpg&quot;,&quot;file_size&quot;:1535661,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66626929491758,3.583775347532871,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4891">
+					<name>?-10</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_03_06.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T07:02:58Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_03_06.jpg&quot;,&quot;file_size&quot;:1989924,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66638094186783,3.582478692238511,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4889">
+					<name>?-12</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_58_08.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:58:01Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_58_08.jpg&quot;,&quot;file_size&quot;:1599693,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66569027304649,3.581296141008241,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4824">
+					<name>?-13</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_15_56.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_15_56.jpg&quot;,&quot;file_size&quot;:1336403,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66465194515131,3.583905734369224,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4817">
+					<name>?-17</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_29_11.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_29_11.jpg&quot;,&quot;file_size&quot;:1346514,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66173962014655,3.584159256019006,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4816">
+					<name>?-18</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_29_22.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_29_22.jpg&quot;,&quot;file_size&quot;:1724334,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66171178131607,3.58401477721685,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4814">
+					<name>?-19</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_29_47.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_29_47.jpg&quot;,&quot;file_size&quot;:1495909,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66171438101848,3.583821115191631,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4813">
+					<name>?-20</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_30_20.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_30_20.jpg&quot;,&quot;file_size&quot;:1678141,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.6617138150005,3.583699482901443,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4812">
+					<name>?-21</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_30_36.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_30_36.jpg&quot;,&quot;file_size&quot;:2035166,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66171197026353,3.583607515328286,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4811">
+					<name>?-22</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_31_08.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_31_08.jpg&quot;,&quot;file_size&quot;:1830295,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66169894718124,3.583478232133835,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4808">
+					<name>?-23</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_31_53.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_31_53.jpg&quot;,&quot;file_size&quot;:1502395,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66171167733944,3.583279584734486,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4803">
+					<name>?-26</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_35_39.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_35_39.jpg&quot;,&quot;file_size&quot;:1561779,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66167556750028,3.582817912531974,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4887">
+					<name>?-27</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_57_31.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:57:13Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_57_31.jpg&quot;,&quot;file_size&quot;:1616799,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66549044847488,3.581249628633779,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4880">
+					<name>?-33</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_41_07.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:40:56Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_41_07.jpg&quot;,&quot;file_size&quot;:1220167,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66235595196486,3.582042011783868,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4879">
+					<name>?-34</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_40_18.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:40:08Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_40_18.jpg&quot;,&quot;file_size&quot;:1651917,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.6627385020256,3.582062089050726,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4878">
+					<name>?-35</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_40_31.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:40:05Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_40_31.jpg&quot;,&quot;file_size&quot;:2388391,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66263188421726,3.582033311634759,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4877">
+					<name>?-36</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_38_55.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:38:46Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_38_55.jpg&quot;,&quot;file_size&quot;:1655424,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66312675178051,3.581915524992567,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4876">
+					<name>?-37</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_47_13.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:38:16Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_47_13.jpg&quot;,&quot;file_size&quot;:1213187,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66193518042564,3.581858974014096,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4874">
+					<name>?-39</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_41_54.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:38:11Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_41_54.jpg&quot;,&quot;file_size&quot;:1250021,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66196367889643,3.581989476266851,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4872">
+					<name>?-41</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_41_24.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:38:05Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_41_24.jpg&quot;,&quot;file_size&quot;:1498219,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66217087954283,3.582004534217889,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4871">
+					<name>?-42</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_50_42.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:37:48Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_50_42.jpg&quot;,&quot;file_size&quot;:1938448,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66242200136185,3.581909167190421,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4869">
+					<name>?-43</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_39_09.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:37:20Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_39_09.jpg&quot;,&quot;file_size&quot;:1651734,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66301778703928,3.581977095284698,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4868">
+					<name>?-44</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_38_32.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:37:09Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_38_32.jpg&quot;,&quot;file_size&quot;:1757981,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66332523524761,3.581980441496102,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4867">
+					<name>?-45</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_04_29.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_04_29.jpg&quot;,&quot;file_size&quot;:2153129,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66654832329411,3.583080391782117,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4866">
+					<name>?-46</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_05_48.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_05_48.jpg&quot;,&quot;file_size&quot;:1487417,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66627565282946,3.583306179501719,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4865">
+					<name>?-47</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_06_12.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_06_12.jpg&quot;,&quot;file_size&quot;:1402107,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66629229293716,3.583381836255516,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4864">
+					<name>?-48</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_06_35.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_06_35.jpg&quot;,&quot;file_size&quot;:2257128,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66628304843199,3.583452879786764,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4863">
+					<name>?-49</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_06_52.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_06_52.jpg&quot;,&quot;file_size&quot;:1400826,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66627380393402,3.583509161017714,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4862">
+					<name>?-50</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_07_49.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_07_49.jpg&quot;,&quot;file_size&quot;:1423220,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66625901273528,3.583602347977757,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4861">
+					<name>?-51</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_08_04.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_08_04.jpg&quot;,&quot;file_size&quot;:1186273,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66624237265876,3.58368815381429,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4853">
+					<name>?-59</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_58_47.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_58_47.jpg&quot;,&quot;file_size&quot;:1616867,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66626773400598,3.581777768077332,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4851">
+					<name>?-60</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_59_34.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_59_34.jpg&quot;,&quot;file_size&quot;:1424646,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66566438914572,3.58177825241399,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4801">
+					<name>?-62</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_36_23.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_36_23.jpg&quot;,&quot;file_size&quot;:1430990,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66166748288239,3.582634142510374,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4800">
+					<name>?-63</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_44_58.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_44_58.jpg&quot;,&quot;file_size&quot;:2122983,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66166813687177,3.582562343839006,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4799">
+					<name>?-64</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_44_36.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_44_36.jpg&quot;,&quot;file_size&quot;:1551890,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66166355892651,3.582486628887021,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4798">
+					<name>?-65</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_44_22.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_44_22.jpg&quot;,&quot;file_size&quot;:1621148,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66163103526051,3.582399859058127,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4797">
+					<name>?-66</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_43_47.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_43_47.jpg&quot;,&quot;file_size&quot;:1912039,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66161186934465,3.582252456865449,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4796">
+					<name>?-67</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_46_06.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_46_06.jpg&quot;,&quot;file_size&quot;:1489367,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66161767393351,3.582082835559342,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4794">
+					<name>?-68</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_46_35.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_46_35.jpg&quot;,&quot;file_size&quot;:1658789,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66163242608309,3.581882062875551,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4849">
+					<name>?-69</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_47_46.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_47_46.jpg&quot;,&quot;file_size&quot;:1425454,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66511980226556,3.581848604117981,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4848">
+					<name>?-70</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_56_25.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_56_25.jpg&quot;,&quot;file_size&quot;:1820696,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66504604804355,3.581848604143842,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4846">
+					<name>?-72</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_55_43.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_55_43.jpg&quot;,&quot;file_size&quot;:1620541,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66491281479284,3.581859289485454,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4845">
+					<name>?-73</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_55_29.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_55_29.jpg&quot;,&quot;file_size&quot;:1238826,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66484025032345,3.581856914977156,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4843">
+					<name>?-75</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_54_59.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_54_59.jpg&quot;,&quot;file_size&quot;:1178235,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66468679443645,3.581865225763181,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4842">
+					<name>?-76</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_54_43.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_54_43.jpg&quot;,&quot;file_size&quot;:1585327,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66460709257342,3.581861663979192,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4841">
+					<name>?-77</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_54_30.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_54_30.jpg&quot;,&quot;file_size&quot;:1783548,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.6645369073461,3.581873536523418,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4840">
+					<name>?-78</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_45_21.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_45_21.jpg&quot;,&quot;file_size&quot;:1060836,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66513111312909,3.582072347406501,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4834">
+					<name>?-80</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_43_22.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_43_22.jpg&quot;,&quot;file_size&quot;:1765464,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66470125585786,3.582101259601443,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4835">
+					<name>?-81</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_44_18.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_44_18.jpg&quot;,&quot;file_size&quot;:1633773,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66477040682267,3.582103124872139,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4836">
+					<name>?-82</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_44_29.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_44_29.jpg&quot;,&quot;file_size&quot;:1575008,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66484142675827,3.582093798365877,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4837">
+					<name>?-83</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_44_50.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_4892</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_44_50.jpg&quot;,&quot;file_size&quot;:1625367,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66490216753436,3.582091933028253,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4870">
+					<name>7/17</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-13_39_35.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:37:23Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_39_35.jpg&quot;,&quot;file_size&quot;:1994620,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66285316646099,3.582043350268334,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4810">
+					<name>8A</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_31_21.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_31_21.jpg&quot;,&quot;file_size&quot;:2316572,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66169800258436,3.583385869257729,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4809">
+					<name>8B</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_31_40.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_31_40.jpg&quot;,&quot;file_size&quot;:1890539,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66168683696529,3.583336375986093,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4802">
+					<name>10B</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_35_51.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_35_51.jpg&quot;,&quot;file_size&quot;:1307800,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66167359437223,3.582723386998494,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4881">
+					<name>31</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-13_41_40.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:41:29Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_41_40.jpg&quot;,&quot;file_size&quot;:2007692,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66206157952547,3.582011895882759,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4830">
+					<name>31</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_41_39.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_41_39.jpg&quot;,&quot;file_size&quot;:1348681,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66393078587069,3.582100509706466,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4827">
+					<name>33</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_40_56.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_40_56.jpg&quot;,&quot;file_size&quot;:1041606,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66364167644869,3.58211687072691,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4828">
+					<name>33A</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_41_05.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_41_05.jpg&quot;,&quot;file_size&quot;:1245995,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66373705270838,3.5821049719394,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4829">
+					<name>33B</name>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_41_23.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48701</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_41_23.jpg&quot;,&quot;file_size&quot;:1622773,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66380262391637,3.582090098471029,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>HOME-BIZ</name>
+				<Placemark id="4820">
+					<name>?-16</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_19_54.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_19_54.jpg&quot;,&quot;file_size&quot;:1369153,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66384202345269,3.584074798898515,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4821">
+					<name>?-15</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_19_15.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_19_15.jpg&quot;,&quot;file_size&quot;:1924452,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66430627162855,3.584116196231058,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4822">
+					<name>?-14</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_18_15.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_18_15.jpg&quot;,&quot;file_size&quot;:1530583,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.6646679610803,3.584132180482013,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4825">
+					<name>?-4</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_18_33.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_18_33.jpg&quot;,&quot;file_size&quot;:1174653,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66488150459612,3.584110867688731,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4860">
+					<name>?-52</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_12_31.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_12_31.jpg&quot;,&quot;file_size&quot;:1257530,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66551325466422,3.583985297613635,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4859">
+					<name>?-53</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_12_11.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_12_11.jpg&quot;,&quot;file_size&quot;:1298009,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66564430002718,3.583965337205838,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4858">
+					<name>?-54</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_11_58.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_11_58.jpg&quot;,&quot;file_size&quot;:1079383,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66572148797249,3.583952715990674,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4857">
+					<name>?-55</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_11_41.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_11_41.jpg&quot;,&quot;file_size&quot;:985229,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66578605102252,3.58396531367559,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4856">
+					<name>?-56</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_11_23.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_11_23.jpg&quot;,&quot;file_size&quot;:1172610,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66584712715867,3.583963602550004,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4855">
+					<name>?-57</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_11_07.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_11_07.jpg&quot;,&quot;file_size&quot;:1615298,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66593554308182,3.583963587510797,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4854">
+					<name>?-58</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_10_47.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_10_47.jpg&quot;,&quot;file_size&quot;:1344089,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66599728676846,3.583941163993424,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4892">
+					<name>?-1</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_03_19.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T07:03:14Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_03_19.jpg&quot;,&quot;file_size&quot;:1578316,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.6663169041276,3.582671433890146,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4890">
+					<name>?-11</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_02_12.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T07:02:05Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_02_12.jpg&quot;,&quot;file_size&quot;:2024811,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66639066487551,3.582191587411332,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4850">
+					<name>?-61</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_56_42.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_56_42.jpg&quot;,&quot;file_size&quot;:1671302,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66498531625915,3.581388393992435,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4844">
+					<name>?-74</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_55_14.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_55_14.jpg&quot;,&quot;file_size&quot;:1528063,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66476887548257,3.581860476745992,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4847">
+					<name>?-71</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_56_05.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_56_05.jpg&quot;,&quot;file_size&quot;:1160723,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66497110430417,3.581853353191721,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4838">
+					<name>?-79</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_45_07.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_45_07.jpg&quot;,&quot;file_size&quot;:1143248,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66498346650064,3.582078876026692,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4886">
+					<name>?-28</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_49_37.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:49:26Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_49_37.jpg&quot;,&quot;file_size&quot;:1912719,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66219837218523,3.581842577575892,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4884">
+					<name>?-30</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_49_17.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:47:32Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_49_17.jpg&quot;,&quot;file_size&quot;:344077,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66215445101261,3.581846593030173,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4883">
+					<name>?-31</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_49_05.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:47:30Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_49_05.jpg&quot;,&quot;file_size&quot;:1338780,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66212192922831,3.581849269999681,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4882">
+					<name>?-32</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_48_54.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:47:28Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_48_54.jpg&quot;,&quot;file_size&quot;:1868205,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66208035498857,3.581848600757301,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4875">
+					<name>?-38</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_48_39.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:38:14Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_48_39.jpg&quot;,&quot;file_size&quot;:1514936,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.6620531976223,3.581851946969176,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4885">
+					<name>?-29</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-13_48_28.jpg"/>]]></description>
+					<TimeStamp><when>2026-02-02T06:47:37Z</when>
+</TimeStamp>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_48_28.jpg&quot;,&quot;file_size&quot;:1487948,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66201363503933,3.581833877424889,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4806">
+					<name>?-25</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_34_52.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_34_52.jpg&quot;,&quot;file_size&quot;:2125472,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66165488958359,3.582920057175954,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="4807">
+					<name>?-24</name>
+					<open>1</open>
+					<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="img_2026_02_02-14_32_23.jpg"/>]]></description>
+					<styleUrl>#mm_marker_color_48920</styleUrl>
+					<ExtendedData>
+						<Data name="com_exlyo_mapmarker_images_with_ext">
+							<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_32_23.jpg&quot;,&quot;file_size&quot;:1354063,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_piniconcode">
+							<value>-1</value>
+						</Data>
+						<Data name="com_exlyo_mapmarker_customfields">
+							<value>[]</value>
+						</Data>
+					</ExtendedData>
+					<Point>
+						<coordinates>98.66173463007796,3.583196374884796,0</coordinates>
+					</Point>
+				</Placemark>
+				<ns1:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></ns1:link>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>POLE</name>
+			<Placemark id="4773">
+				<name>1A</name>
+				<open>1</open>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_50_20.jpg&quot;,&quot;file_size&quot;:1715350,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66525090976394,3.582905668520367,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4774">
+				<name>24A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_50_53.jpg&quot;,&quot;file_size&quot;:1107796,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66549613387268,3.582976498275608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4775">
+				<name>30A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_03_50.jpg&quot;,&quot;file_size&quot;:1052518,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66611158015249,3.58295329558056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4776">
+				<name>33A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_52_37.jpg&quot;,&quot;file_size&quot;:1018726,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66606265392471,3.583572696585285,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4777">
+				<name>29A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_01_09.jpg&quot;,&quot;file_size&quot;:1456748,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.6660740630103,3.581989798120281,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4778">
+				<name>3A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_46_24.jpg&quot;,&quot;file_size&quot;:1387882,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66520168030391,3.582222391941055,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4779">
+				<name>6A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_44_06.jpg&quot;,&quot;file_size&quot;:1028100,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66471452495705,3.582286973174421,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4780">
+				<name>10A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_40_29.jpg&quot;,&quot;file_size&quot;:1369216,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66346333886156,3.582442236667828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4781">
+				<name>13A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_38_51.jpg&quot;,&quot;file_size&quot;:1281834,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66222254632328,3.582497910173274,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4782">
+				<name>17A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_42_31.jpg&quot;,&quot;file_size&quot;:1411716,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66178905462203,3.58230562360467,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4783">
+				<name>36A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_13_41.jpg&quot;,&quot;file_size&quot;:966083,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66534410224558,3.58370355079943,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4784">
+				<name>10A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_16_30.jpg&quot;,&quot;file_size&quot;:952763,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66436580907263,3.5836198148129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4788">
+				<name>53A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_30_53.jpg&quot;,&quot;file_size&quot;:1140982,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66178236433218,3.583562623925485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4789">
+				<name>56A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_22_30.jpg&quot;,&quot;file_size&quot;:964080,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66307379267661,3.583535872342992,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4790">
+				<name>48A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_25_28.jpg&quot;,&quot;file_size&quot;:1253100,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66300688625677,3.583864095644457,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4791">
+				<name>51A</name>
+				<styleUrl>#mm_marker_color_47740</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_26_58.jpg&quot;,&quot;file_size&quot;:1091422,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66222166302089,3.583998598294689,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66530085533498</longitude>
+					<latitude>3.583041833964943</latitude>
+					<altitude>0</altitude>
+					<heading>22.36340038659621</heading>
+					<tilt>68.74230804218662</tilt>
+					<range>6.895341438394996</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66531195175776,3.583071439420311,0.2502020660272758</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66533022544508</longitude>
+					<latitude>3.583460872045104</latitude>
+					<altitude>0</altitude>
+					<heading>149.802677640666</heading>
+					<tilt>74.28098439754073</tilt>
+					<range>9.227795748486761</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66533694923996,3.58347522691606,0.07840304283705626</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66508047244943</longitude>
+					<latitude>3.583570239572957</latitude>
+					<altitude>0</altitude>
+					<heading>101.4748772139541</heading>
+					<tilt>64.81070683155303</tilt>
+					<range>5.873914179949176</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66510381140677,3.583560862975012,0.07057850984290294</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66464795417096</longitude>
+					<latitude>3.583619242488838</latitude>
+					<altitude>0</altitude>
+					<heading>-32.8209955690657</heading>
+					<tilt>45.4041351643239</tilt>
+					<range>3.560737183045978</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66464929968339,3.583619935912381,0.01140851361498552</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66441204661452</longitude>
+					<latitude>3.583349082047691</latitude>
+					<altitude>0</altitude>
+					<heading>-60.0754564339783</heading>
+					<tilt>59.90837840765104</tilt>
+					<range>4.986193107964322</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66441138134834,3.583346224970293,0.06647998419103293</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>63A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66421557553672</longitude>
+					<latitude>3.582955281877862</latitude>
+					<altitude>0</altitude>
+					<heading>153.0868495661404</heading>
+					<tilt>48.7366576050464</tilt>
+					<range>3.790629607796903</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.6642139093823,3.582954860913202,-0.002133213456446242</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>62A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66371378324027</longitude>
+					<latitude>3.583047015213524</latitude>
+					<altitude>0</altitude>
+					<heading>-31.34151495903805</heading>
+					<tilt>69.7041928066516</tilt>
+					<range>7.207362737647846</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66373065452392,3.583031441348674,0.07867675496151574</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>60A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66318214312022</longitude>
+					<latitude>3.583053552616184</latitude>
+					<altitude>0</altitude>
+					<heading>35.92057938970911</heading>
+					<tilt>64.31045276537155</tilt>
+					<range>5.767078453207785</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66317693806504,3.583049463765419,0.05128313490937794</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>59A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66272508664396</longitude>
+					<latitude>3.583062489555819</latitude>
+					<altitude>0</altitude>
+					<heading>31.54040240401405</heading>
+					<tilt>60.16386502439317</tilt>
+					<range>5.024909116656501</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66272768913922,3.583064634080003,0.3761465106028881</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>58A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66222309864611</longitude>
+					<latitude>3.583093018171354</latitude>
+					<altitude>0</altitude>
+					<heading>-23.68219720077685</heading>
+					<tilt>67.60215441946563</tilt>
+					<range>6.561058964068724</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66222871137823,3.583080246223724,0.639829320796618</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>61A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66344738737607</longitude>
+					<latitude>3.58304846641098</latitude>
+					<altitude>0</altitude>
+					<heading>20.25997046429226</heading>
+					<tilt>63.6104662744098</tilt>
+					<range>5.624652470549363</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.663438365772,3.583041461651304,0.0164621737483939</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66184768120486</longitude>
+					<latitude>3.583092308447194</latitude>
+					<altitude>0</altitude>
+					<heading>-47.89053804545938</heading>
+					<tilt>68.27370530942279</tilt>
+					<range>6.753588391228004</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66184796986111,3.5830996247992,0.1189439101576</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>57A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66182845540995</longitude>
+					<latitude>3.583238774597348</latitude>
+					<altitude>0</altitude>
+					<heading>57.54009470777014</heading>
+					<tilt>47.26225802481326</tilt>
+					<range>3.683817730752481</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66182765432978,3.58323598817466,-0.02125510009782621</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>54A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66193090293433</longitude>
+					<latitude>3.583599272213514</latitude>
+					<altitude>0</altitude>
+					<heading>-93.84175492631785</heading>
+					<tilt>79.2401464472549</tilt>
+					<range>13.39089595829071</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66200373024859,3.583591506474082,-0.008970691539537468</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>55A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66240470245489</longitude>
+					<latitude>3.583582500889433</latitude>
+					<altitude>0</altitude>
+					<heading>-143.5736667237058</heading>
+					<tilt>41.25137524434996</tilt>
+					<range>3.325245914946934</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.6624085828479,3.583580668237488,0.1184924766266672</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>45A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66351758740598</longitude>
+					<latitude>3.583599860175116</latitude>
+					<altitude>0</altitude>
+					<heading>15.27091869398713</heading>
+					<tilt>65.43378837410152</tilt>
+					<range>6.013302629891654</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66351318467083,3.583591951694575,0.1183114653156824</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66351002138727</longitude>
+					<latitude>3.583820366080783</latitude>
+					<altitude>0</altitude>
+					<heading>137.1425943501103</heading>
+					<tilt>64.67502606042424</tilt>
+					<range>5.844504393409717</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66352120154669,3.583815162694553,0.1479148970917681</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66331281030122</longitude>
+					<latitude>3.583826398709093</latitude>
+					<altitude>0</altitude>
+					<heading>-171.2681607443676</heading>
+					<tilt>61.27623307722757</tilt>
+					<range>5.201965047843201</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66331047795239,3.583829634475941,0.1707991103183053</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66274280481353</longitude>
+					<latitude>3.583894388272814</latitude>
+					<altitude>0</altitude>
+					<heading>178.5804164028855</heading>
+					<tilt>40.18659799572255</tilt>
+					<range>3.272477927709311</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66274279887256,3.583894627536909,0.03154261875905888</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66241709466496</longitude>
+					<latitude>3.583955789040525</latitude>
+					<altitude>0</altitude>
+					<heading>-63.24645973050745</heading>
+					<tilt>66.16846115261603</tilt>
+					<range>6.187363973910021</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank42</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66242875467563,3.583961048068427,0.01277971267555445</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>64A</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66453100101947</longitude>
+					<latitude>3.582926650374299</latitude>
+					<altitude>0</altitude>
+					<heading>100.5457913854826</heading>
+					<tilt>77.92748179025521</tilt>
+					<range>11.95311833609661</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.6644931840446,3.582932315059424,0.07618388823748973</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<longitude>98.66551147022219</longitude>
+					<latitude>3.582924073823646</latitude>
+					<altitude>0</altitude>
+					<heading>5.989977083512416e-07</heading>
+					<tilt>0</tilt>
+					<range>60.05780399307178</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66550801953653,3.582910298059298,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66600475076008</longitude>
+					<latitude>3.582872257602675</latitude>
+					<altitude>0</altitude>
+					<heading>172.4604341424358</heading>
+					<tilt>63.71218900629324</tilt>
+					<range>5.644859497449604</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66600169695852,3.582884847867018,-0.02153759710290752</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66605658996849</longitude>
+					<latitude>3.583346214166844</latitude>
+					<altitude>0</altitude>
+					<heading>-127.7617414775094</heading>
+					<tilt>50.40120746511941</tilt>
+					<range>3.922135053320642</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66605235364659,3.583339629262754,0.01616836813912664</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66609365414435</longitude>
+					<latitude>3.582524384598722</latitude>
+					<altitude>0</altitude>
+					<heading>148.0901134044782</heading>
+					<tilt>72.8917389076112</tilt>
+					<range>8.498234779272279</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66609479571666,3.582543592651559,-0.005367106033577413</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66610385040137</longitude>
+					<latitude>3.582265058489035</latitude>
+					<altitude>0</altitude>
+					<heading>125.6402544206558</heading>
+					<tilt>74.15953576801024</tilt>
+					<range>9.158837861720023</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66608220731197,3.582291082524672,0.05296283439161655</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<longitude>98.66531240159765</longitude>
+					<latitude>3.582684833113779</latitude>
+					<altitude>0</altitude>
+					<heading>2.097178243090006e-14</heading>
+					<tilt>0</tilt>
+					<range>94.45382592607194</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66529551777019,3.582616827967993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<longitude>98.66478006611008</longitude>
+					<latitude>3.582386317828687</latitude>
+					<altitude>0</altitude>
+					<heading>-3.677516350442191e-15</heading>
+					<tilt>0</tilt>
+					<range>122.0392757069095</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66488290721759,3.582327221968291,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<longitude>98.66455958103784</longitude>
+					<latitude>3.582294563562707</latitude>
+					<altitude>0</altitude>
+					<heading>-1.377664323274081e-05</heading>
+					<tilt>0</tilt>
+					<range>122.0392757051282</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66444037885228,3.582277456831546,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<longitude>98.66412484351081</longitude>
+					<latitude>3.582286787547079</latitude>
+					<altitude>0</altitude>
+					<heading>-4.094016575602465e-05</heading>
+					<tilt>0</tilt>
+					<range>122.0392757083858</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66404537538246,3.582290675371905,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<longitude>98.66383657576363</longitude>
+					<latitude>3.58236221240508</latitude>
+					<altitude>0</altitude>
+					<heading>-5.895152077188811e-05</heading>
+					<tilt>0</tilt>
+					<range>122.0392757090619</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66366049925145,3.5823933152932,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66308575316609</longitude>
+					<latitude>3.582451406605887</latitude>
+					<altitude>0</altitude>
+					<heading>136.7751544091505</heading>
+					<tilt>63.33105172761525</tilt>
+					<range>5.569974184491543</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66307793722039,3.582454634504089,0.07984406774869392</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66272655014744</longitude>
+					<latitude>3.582466065830005</latitude>
+					<altitude>0</altitude>
+					<heading>119.4262244957615</heading>
+					<tilt>58.35904923740734</tilt>
+					<range>4.765582938264409</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66272274218746,3.582467647391165,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66206133666965</longitude>
+					<latitude>3.58249617472782</latitude>
+					<altitude>0</altitude>
+					<heading>97.26416662352355</heading>
+					<tilt>79.30731885940125</tilt>
+					<range>13.47402975070462</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66199803492573,3.582490720464642,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66180720678948</longitude>
+					<latitude>3.582586532513956</latitude>
+					<altitude>0</altitude>
+					<heading>76.97914914000741</heading>
+					<tilt>47.25889813479211</tilt>
+					<range>3.683583959629937</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66180326646949,3.582585177277904,0.05983485434773159</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66212149412338</longitude>
+					<latitude>3.58228940346981</latitude>
+					<altitude>0</altitude>
+					<heading>-54.9706925567159</heading>
+					<tilt>65.72759921269028</tilt>
+					<range>6.081605120095886</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66211869928883,3.582280858539258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66236044991886</longitude>
+					<latitude>3.582271216481906</latitude>
+					<altitude>0</altitude>
+					<heading>59.23281615243706</heading>
+					<tilt>40.98632070732968</tilt>
+					<range>3.311844744785376</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66235537413468,3.58227380986385,0.006517663392311774</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20A</name>
+				<LookAt>
+					<gx:TimeStamp><when>2026-02-02T06:37:09Z</when>
+</gx:TimeStamp>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66271092091213</longitude>
+					<latitude>3.582260655625133</latitude>
+					<altitude>0</altitude>
+					<heading>-2.256602970156724</heading>
+					<tilt>30.67212592658706</tilt>
+					<range>2.90663671790348</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66271013747281,3.582264581234936,0.05813162843684715</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>FDT</name>
+			<Placemark id="4773">
+				<name>FHM2100</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_50_20.jpg"/>]]></description>
+				<styleUrl>#mm_marker_color_4773</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_50_20.jpg&quot;,&quot;file_size&quot;:1715350,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66525090976394,3.582905668520367,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>FAT</name>
+			<Placemark>
+				<name>FHM216S02C05</name>
+				<open>1</open>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66222309864611</longitude>
+					<latitude>3.583093018171354</latitude>
+					<altitude>0</altitude>
+					<heading>-23.68219720077685</heading>
+					<tilt>67.60215441946563</tilt>
+					<range>6.561058964068724</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.66222871137823,3.583080246223724,0.639829320796618</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FHM216S02C04</name>
+				<open>1</open>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66344738737607</longitude>
+					<latitude>3.58304846641098</latitude>
+					<altitude>0</altitude>
+					<heading>20.25997046429226</heading>
+					<tilt>63.6104662744098</tilt>
+					<range>5.624652470549363</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.663438365772,3.583041461651304,0.0164621737483939</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FHM216S02C03</name>
+				<open>1</open>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>98.66453100101947</longitude>
+					<latitude>3.582926650374299</latitude>
+					<altitude>0</altitude>
+					<heading>100.5457913854826</heading>
+					<tilt>77.92748179025521</tilt>
+					<range>11.95311833609661</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>98.6644931840446,3.582932315059424,0.07618388823748973</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4774">
+				<name>FHM216S01A01</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_50_53.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_50_53.jpg&quot;,&quot;file_size&quot;:1107796,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66549613387268,3.582976498275608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4775">
+				<name>FHM216S01A02 (20)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_03_50.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_03_50.jpg&quot;,&quot;file_size&quot;:1052518,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66611158015249,3.58295329558056,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4776">
+				<name>FHM216S01A03 (11)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_52_37.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_52_37.jpg&quot;,&quot;file_size&quot;:1018726,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66606265392471,3.583572696585285,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4777">
+				<name>FHM216S01A04 (23)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_01_09.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_01_09.jpg&quot;,&quot;file_size&quot;:1456748,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.6660740630103,3.581989798120281,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4778">
+				<name>FHM216S01B01 (21)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_46_24.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_46_24.jpg&quot;,&quot;file_size&quot;:1387882,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66520168030391,3.582222391941055,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4779">
+				<name>FHM216S01B02 (13)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_44_06.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_44_06.jpg&quot;,&quot;file_size&quot;:1028100,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66471452495705,3.582286973174421,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4780">
+				<name>FHM216S01B03 (17)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_40_29.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_40_29.jpg&quot;,&quot;file_size&quot;:1369216,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66346333886156,3.582442236667828,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4781">
+				<name>FHM216S01B04 (16)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_38_51.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_38_51.jpg&quot;,&quot;file_size&quot;:1281834,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66222254632328,3.582497910173274,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4782">
+				<name>FHM216S02B05 (12)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-13_42_31.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-13_42_31.jpg&quot;,&quot;file_size&quot;:1411716,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66178905462203,3.58230562360467,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4783">
+				<name>FHM216S02C01 (13)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_13_41.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_13_41.jpg&quot;,&quot;file_size&quot;:966083,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66534410224558,3.58370355079943,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4784">
+				<name>FHM216S02C02 (12)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_16_30.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_16_30.jpg&quot;,&quot;file_size&quot;:952763,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66436580907263,3.5836198148129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4788">
+				<name>FHM216S02C06 (11)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_30_53.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_30_53.jpg&quot;,&quot;file_size&quot;:1140982,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66178236433218,3.583562623925485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4789">
+				<name>FHM216S03C07</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_22_30.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_22_30.jpg&quot;,&quot;file_size&quot;:964080,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66307379267661,3.583535872342992,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4790">
+				<name>FHM216S03C08 (18)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_25_28.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_25_28.jpg&quot;,&quot;file_size&quot;:1253100,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66300688625677,3.583864095644457,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4791">
+				<name>FHM216S03C09 (11)</name>
+				<description><![CDATA[<pre id="com.exlyo.mapmarker.description_p_tag"></pre><br/><img style="max-width:500px;" src="C:/Users/ASUS/AppData/LocalLow/Google/GoogleEarth/img_2026_02_02-14_26_58.jpg"/>]]></description>
+				<styleUrl>#msn_grn-blank</styleUrl>
+				<ExtendedData>
+					<Data name="com_exlyo_mapmarker_images_with_ext">
+						<value>[{&quot;file_rel_path&quot;:&quot;local_media/img_2026_02_02-14_26_58.jpg&quot;,&quot;file_size&quot;:1091422,&quot;file_extension&quot;:&quot;.jpg&quot;}]</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_piniconcode">
+						<value>-1</value>
+					</Data>
+					<Data name="com_exlyo_mapmarker_customfields">
+						<value>[]</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>98.66222166302089,3.583998598294689,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CABLE DISTRIBUTION</name>
+			<Placemark>
+				<name>LINE B</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.66525265223598,3.582907307584328,0 98.66529436321349,3.582630893372592,0 98.66520320340547,3.582226841579118,0 98.66488221013144,3.58234207659419,0 98.6647157610432,3.582288505768857,0 98.66444126178163,3.582284488783112,0 98.6640456687021,3.582307252153428,0 98.66365997507698,3.582405052184219,0 98.66346346893762,3.582449289907272,0 98.66308027132104,3.58246806180359,0 98.66272416296195,3.582480130672219,0 98.66222315247433,3.582500248197022,0 98.66199737571384,3.582502930235938,0 98.66180634233616,3.582604921712932,0 98.66178677664318,3.582308585455614,0 98.66212114311881,3.582289839654487,0 98.66235745085223,3.582279129127244,0 98.6627118980561,3.582276452328347,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>LINE A</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.6652517835907,3.582907339628755,0 98.66549712485929,3.582983445360128,0 98.6655103865444,3.582915612065999,0 98.66600604239173,3.582892449239712,0 98.66611545165129,3.58294870119003,0 98.66605245886288,3.583362319389885,0 98.66606074735788,3.583579343126678,0 98.66605411653059,3.583365916171775,0 98.66611379404944,3.582951992256371,0 98.66600272696883,3.582893755129297,0 98.66609887430312,3.582557897187124,0 98.6660822969438,3.582312397840895,0 98.6660723505897,3.582004665955476,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>LINE C</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						98.66525121955677,3.582920978373028,0 98.66531297691247,3.583093677611097,0 98.66533933667645,3.583503426985183,0 98.66534694971105,3.583714480106687,0 98.66510589500038,3.583569489909906,0 98.66464572591491,3.583629647437555,0 98.66436317303805,3.583624299883797,0 98.66440777115054,3.583364185215023,0 98.66449441233935,3.582942143350633,0 98.66421502479066,3.582976733562784,0 98.6637314938295,3.583038927179411,0 98.66343996897201,3.583046983314508,0 98.66318304777546,3.583061532106413,0 98.66272654866026,3.583084283875149,0 98.66222834124743,3.583085914821275,0 98.66184621673366,3.583120342227847,0 98.66182770936355,3.583249555873371,0 98.66177970418281,3.583577247599079,0 98.66200399187231,3.583599634225948,0 98.66241118168841,3.583594455056685,0 98.6630730376847,3.583546480855696,0 98.6635169065889,3.583603090423533,0 98.66352109156198,3.583824876798491,0 98.66331417216772,3.583846805182399,0 98.66301130816819,3.583877394391084,0 98.66274167927759,3.583909972491695,0 98.66242389276995,3.583976034559123,0 98.66221541260374,3.58400421856058,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CABLE DROP</name>
+		</Folder>
+		<Folder>
+			<name>SLINGWIRE</name>
+		</Folder>
+		<Folder>
+			<name>HOOK</name>
+		</Folder>
+		<Placemark>
+			<name>FHM216S01A03</name>
+			<styleUrl>#m_ylw-pushpin43</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66617852730752,3.583939207187859,0 98.6661180285161,3.583305948696883,0 98.66642347318833,3.583254404321562,0 98.66638510827146,3.582965756113063,0 98.6666344814908,3.58296575563587,0 98.6666285789302,3.583223477520518,0 98.66652381263337,3.58323525920687,0 98.66654594665502,3.583703575979023,0 98.66649872805851,3.5837138848098,0 98.66649135050847,3.583921535030137,0 98.66617852730752,3.583939207187859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S02C01</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66535965548165,3.583921176048915,0 98.66606427279966,3.583874993155876,0 98.66605375641333,3.584148941781063,0 98.6653754301601,3.584225563473908,0 98.66535965548165,3.583921176048915,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S01A04</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66561406674231,3.581966628886053,0 98.66560740568356,3.581671446021848,0 98.66636553780316,3.581636875436603,0 98.66639218407188,3.581947919973029,0 98.66699291090208,3.582047543772209,0 98.66691675499958,3.582465421845664,0 98.66645152308709,3.582433145824989,0 98.66643777249895,3.582869458510566,0 98.66611494272472,3.582887480915723,0 98.66610238263571,3.581954926464984,0 98.66561406674231,3.581966628886053,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S01B01</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66449859539793,3.582255866212861,0 98.66448859052612,3.581713040103629,0 98.66488328138524,3.581690353517494,0 98.66489339502317,3.581244060588651,0 98.66527251115022,3.581220029335395,0 98.66528734325608,3.580917289828921,0 98.66555152218058,3.580915328033416,0 98.66555932723175,3.581013581178929,0 98.66593284033611,3.581027897126978,0 98.66594863857378,3.58155488372471,0 98.66516155944736,3.581574220897425,0 98.6651732316392,3.581684613017547,0 98.66517475794541,3.582214735727112,0 98.66449859539793,3.582255866212861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S01B03</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66425323572383,3.581982595285679,0 98.6642591945693,3.582281805498231,0 98.66352522689277,3.582328244661523,0 98.66353514693033,3.582141218493918,0 98.66318096827921,3.582144994511867,0 98.66211952681763,3.582189510674799,0 98.66211346335366,3.581958852803649,0 98.66214080556836,3.581959366743613,0 98.66213136510439,3.581758768469833,0 98.66250350294213,3.581726261965156,0 98.66250421117972,3.581973472385896,0 98.66294785658505,3.581958853395317,0 98.66294583122222,3.581926484318166,0 98.66309582380497,3.581914346190517,0 98.66308568754403,3.581809154582588,0 98.66319513488121,3.58179499495852,0 98.66320122415581,3.581922438286075,0 98.66352039583194,3.581924208648964,0 98.66352162846127,3.582016431341555,0 98.66425323572383,3.581982595285679,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S02B05</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66153583584224,3.582551573263894,0 98.66151955166072,3.582197470955156,0 98.66152888875342,3.581798304622655,0 98.66212560422726,3.581757865314876,0 98.6621295150259,3.581950009679116,0 98.66209948444799,3.581951690920272,0 98.66211027201911,3.582213825293346,0 98.66171123780411,3.582221303313374,0 98.66172765018965,3.582531877344669,0 98.66153583584224,3.582551573263894,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S02C06</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66176247629025,3.583136256311635,0 98.66180413247363,3.5844169590459,0 98.66161751186124,3.584415698822397,0 98.66159085200171,3.583106789895287,0 98.66176247629025,3.583136256311635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S02C02</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66415601364585,3.58432505811045,0 98.66414812285119,3.584043512337664,0 98.66450912933493,3.58403366821118,0 98.66450171358284,3.583898341591387,0 98.66476449194367,3.583884655870114,0 98.6647699402269,3.583932032664254,0 98.66500323346767,3.583924345481608,0 98.6650181456034,3.584286999675856,0 98.66415601364585,3.58432505811045,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S03C08</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66362543495158,3.584345508059188,0 98.66362728760873,3.583976435949408,0 98.66396747858821,3.583952448026323,0 98.66397119674926,3.584299371060867,0 98.66362543495158,3.584345508059188,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>FHM216S01B04</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							98.66154181231136,3.583027412299408,0 98.66154299530447,3.582555866857775,0 98.66172807285648,3.582535889474736,0 98.66174714849589,3.583025937368664,0 98.66154181231136,3.583027412299408,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>
