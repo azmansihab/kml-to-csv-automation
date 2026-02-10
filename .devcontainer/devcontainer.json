@@ -1,0 +1,24 @@
+{
+  "name": "GeoPython KMZ Generator",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {}
+  },
+  
+  // Install library sistem Linux yang dibutuhkan Geopandas
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y libspatialindex-dev && pip install -r requirements.txt",
+
+  // Forward port 8000 agar bisa dibuka di browser Anda
+  "forwardPorts": [8000],
+
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python"
+      },
+      "extensions": [
+        "ms-python.python"
+      ]
+    }
+  }
+}
